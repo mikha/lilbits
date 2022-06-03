@@ -1,0 +1,1 @@
+Renamer app helps rename all files down from the specified path recursively using regular expression syntax 
